@@ -37,7 +37,7 @@ Even compound statements may be documented:
     class Foo
     {
       /**
-       * @var string $name        Should contain a description
+       * @var string $name        Should contain a name
        * @var string $description Should contain a description
        */
       protected $name, $description;
